@@ -1,0 +1,19 @@
+{
+    "model": "yolo26s",
+    "run_name": "yolo26s_960_with_cocco",
+    "dataset": "local_fast_dataset_960_with_cocco",
+    "epochs_completed": 50,
+    "imgsz": 960,
+    "metrics": {
+        "precision": 0.9498,
+        "recall": 0.9369,
+        "mAP50": 0.9579,
+        "mAP50-95": 0.6653
+    },
+    "losses": {
+        "train_box_loss": 1.1061,
+        "train_cls_loss": 0.40067,
+        "val_box_loss": 1.0879,
+        "val_cls_loss": 0.42216
+    }
+}

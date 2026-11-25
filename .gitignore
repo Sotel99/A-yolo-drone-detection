@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+runs/
+datasets/
+*.tar
+*.onnx
+*.engine
+.ipynb_checkpoints/
