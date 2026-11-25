@@ -1,6 +1,6 @@
-# YOLO Drone Detection (yolo26s_960_with_cocco)
+# YOLO Drone Detection (yolo26s_960)
 
-Detekcja dronow (drone) oraz ptakow (bird) z wykorzystaniem modelu YOLO26s (imgsz=960, 50 epok) na zbiorze local_fast_dataset_960_with_cocco.
+Detekcja dronow (drone) oraz ptakow (bird) z wykorzystaniem modelu YOLO26s (imgsz=960, 50 epok) na zbiorze local_fast_dataset_960.
 
 ## Struktura repozytorium
 - configs/drone.yaml - konfiguracja datasetu i klas
